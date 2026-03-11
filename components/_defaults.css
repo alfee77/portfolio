@@ -1,0 +1,11 @@
+a {
+  color: var(--anchor-color);
+}
+
+p {
+  color: var(--gray-light);
+}
+
+strong {
+  font-weight: normal;
+}
